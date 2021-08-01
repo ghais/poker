@@ -107,7 +107,7 @@ executable poker-exe
 
 common test-deps
   build-depends:
-      hspec ^>= 2.7
+      hspec >= 2.7
     , poker
   
 test-suite evaluate-test
